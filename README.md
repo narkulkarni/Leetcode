@@ -1,1 +1,2 @@
-# Contains Leetcode solutions
+# Leetcode Solution Tracker
+Contains solutions to NeetCode's 150 List.
